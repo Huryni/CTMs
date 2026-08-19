@@ -1,0 +1,46 @@
+{
+  "toolLoading": {
+    "profile": "all",
+    "promoted": [],
+    "counters": {
+      "get_vault_overview": 2,
+      "search_vault_simple": 2,
+      "get_vault_file": 1,
+      "get_vault_files": 1
+    },
+    "profiles": {
+      "default": {
+        "profile": "all",
+        "promoted": [],
+        "allowed": null
+      }
+    }
+  },
+  "mcpTransport": {
+    "tokens": [
+      {
+        "id": "default",
+        "label": "Default",
+        "token": "8GoK0lqBIpk92t_ZQtMWAzMmIIE6JzrDuWt0cE6dJlg",
+        "createdAt": 1787059729026
+      }
+    ],
+    "bearerToken": "8GoK0lqBIpk92t_ZQtMWAzMmIIE6JzrDuWt0cE6dJlg",
+    "livePort": 27200,
+    "eraCounters": {
+      "legacy": 10,
+      "modern": 0
+    },
+    "eraCountersByToken": {
+      "default": {
+        "legacy": 10,
+        "modern": 0
+      }
+    }
+  },
+  "semanticSearch": {
+    "provider": "auto",
+    "indexingMode": "live",
+    "unloadModelWhenIdle": false
+  }
+}
