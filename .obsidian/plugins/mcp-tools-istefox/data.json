@@ -4,9 +4,16 @@
     "promoted": [],
     "counters": {
       "get_vault_overview": 2,
-      "search_vault_simple": 2,
-      "get_vault_file": 1,
-      "get_vault_files": 1
+      "search_vault_simple": 131,
+      "get_vault_file": 2,
+      "get_vault_files": 74,
+      "list_tags": 36,
+      "get_recent_files": 14,
+      "search_vault": 51,
+      "list_vault_files": 22,
+      "list_property_values": 211,
+      "search_vault_smart": 1,
+      "get_note_property": 1
     },
     "profiles": {
       "default": {
@@ -28,12 +35,12 @@
     "bearerToken": "8GoK0lqBIpk92t_ZQtMWAzMmIIE6JzrDuWt0cE6dJlg",
     "livePort": 27200,
     "eraCounters": {
-      "legacy": 10,
+      "legacy": 662,
       "modern": 0
     },
     "eraCountersByToken": {
       "default": {
-        "legacy": 10,
+        "legacy": 662,
         "modern": 0
       }
     }

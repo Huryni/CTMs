@@ -1,5 +1,0 @@
-views:
-  - type: table
-    name: Tabela
-  - type: list
-    name: Visualizaçao padrão

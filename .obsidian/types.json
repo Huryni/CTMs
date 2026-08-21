@@ -4,6 +4,10 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "li": "date",
-    "date": "text"
+    "date": "text",
+    "lei": "multitext",
+    "UF": "multitext",
+    "Municipio": "multitext",
+    "status": "multitext"
   }
 }
